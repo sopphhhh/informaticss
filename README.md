@@ -74,3 +74,6 @@ bash script.bash Vasya Pupkin
 * Ресурс, где можно найти ответы на (почти) любые вопросы - https://stackoverflow.com/ и не поверите где еще - https://www.google.ru/
 
 * Хорошая книга по Shell/bash в Linux - "Learn Linux Shell Scripting – Fundamentals of Bash 4.4"  Sebastiaan Tammer
+* ![image](https://github.com/user-attachments/assets/6934165a-8b70-4b5e-ab70-0c5ec3c9a270)
+![image](https://github.com/user-attachments/assets/720b2e61-47da-4747-b729-81279eab5c38)
+
